@@ -108,8 +108,13 @@ We're actively seeking community contributions in these areas:
 
 #### 💼 Productivity Tools
 *Enhance daily workflows and task management*
+
+| Extension | Description | Platform | Language | Status |
+|-----------|-------------|----------|----------|--------|
+| [Bear Notes](https://github.com/vasylenko/claude-desktop-extension-bear-notes) | Search, read, create, and update Bear Notes directly from Claude. Local-only with complete privacy. | macOS | TypeScript | ✅ Stable |
+
+*Ideas for more extensions:*
 - Calendar and scheduling assistants
-- Note-taking and knowledge management
 - Email automation and filtering
 - Task and project management
 
