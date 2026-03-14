@@ -126,6 +126,8 @@ We're actively seeking community contributions in these areas:
 - Slack, Discord, Teams connectors
 - Notion, Obsidian, Roam databases
 - Cloud storage services
+- [Docat0209/mcp-openapi](https://github.com/Docat0209/mcp-openapi) - Convert any OpenAPI/Swagger spec into MCP tools with zero config. Supports Swagger 2.0, OpenAPI 3.x, built-in auth, and flat parameter schemas for better LLM accuracy. ([npm](https://www.npmjs.com/package/mcp-openapi))
+- [Docat0209/mcp-graphql](https://github.com/Docat0209/mcp-graphql) - Convert any GraphQL API into MCP tools with zero config. Auto-introspection, flat parameter schemas, and smart response truncation. ([npm](https://www.npmjs.com/package/graphql-to-mcp))
 
 #### 🗄️ Database Tools
 *Work with databases and data sources*
