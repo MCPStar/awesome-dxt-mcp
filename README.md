@@ -92,8 +92,14 @@ dxt validate
 
 ### 📂 Current Status
 - **Official Examples**: 3 reference implementations by Anthropic
-- **Community Extensions**: *Looking for contributions!*
+- **Community Extensions**: 1 (and growing!)
 - **In Development**: Several projects in progress
+
+### 💹 Finance & Trading
+
+| Name | Type | Description | Repository | Status |
+|------|------|-------------|------------|--------|
+| Longbridge MCP | Remote MCP (streamable-http) | Official Longbridge Securities MCP — 133 tools for US/HK real-time quotes, options, trading, fundamentals, IPO, alerts, DCA & portfolio. OAuth 2.1. | [longbridge/longbridge-mcp](https://github.com/longbridge/longbridge-mcp) | ✅ Stable |
 
 ### 🔍 Extension Categories
 
