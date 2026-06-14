@@ -127,6 +127,10 @@ We're actively seeking community contributions in these areas:
 - Notion, Obsidian, Roam databases
 - Cloud storage services
 
+| Name | Description | Platform | Language | Status |
+|------|-------------|----------|----------|--------|
+| [Xquik MCP Server](https://github.com/Xquik-dev/x-twitter-scraper) | X data search, monitoring, media, webhooks, SDKs, and confirmed writes | Remote MCP | JavaScript | ✅ Stable |
+
 #### 🗄️ Database Tools
 *Work with databases and data sources*
 - PostgreSQL, MySQL, SQLite connectors
