@@ -95,6 +95,12 @@ dxt validate
 - **Community Extensions**: *Looking for contributions!*
 - **In Development**: Several projects in progress
 
+### 🧩 Available Extensions
+
+| Name | Type | Description | Repository |
+|------|------|-------------|------------|
+| AgentsCoin | Claude Desktop Extension (.mcpb) | Give your AI agent its own money — create a wallet, get AGENT from a faucet (in chat), send, and create/trade tokens on a live EVM chain. 9 tools. | [axiosdevs/agentscoin-claude-extension](https://github.com/axiosdevs/agentscoin-claude-extension) |
+
 ### 🔍 Extension Categories
 
 We're actively seeking community contributions in these areas:
@@ -133,6 +139,13 @@ We're actively seeking community contributions in these areas:
 - MongoDB and NoSQL databases
 - Data visualization and analysis
 - Query builders and executors
+
+#### ⛓️ Blockchain / Crypto
+*Give Claude on-chain capabilities*
+- Wallet creation and management
+- Faucets and token transfers
+- Token creation and trading on EVM chains
+- On-chain data and contract interaction
 
 ---
 
