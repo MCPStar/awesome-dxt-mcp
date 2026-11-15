@@ -123,6 +123,7 @@ We're actively seeking community contributions in these areas:
 #### 🔗 API Integrations
 *Connect Claude to external services*
 - GitHub, GitLab, Bitbucket integration
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote Streamable HTTP MCP server for live-music venue discovery, tour routing, and touring act search across the US and Canada
 - Slack, Discord, Teams connectors
 - Notion, Obsidian, Roam databases
 - Cloud storage services
